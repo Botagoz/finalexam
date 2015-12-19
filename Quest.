@@ -1,0 +1,62 @@
+Single Unix Specification Version 2 provides enhanced support for
+  a) 16 bit Unix
+  b) 32 bit Unix
+  -c) 64 bit Unix
+  d) 8 bit Unix
+  
+Which among the following interacts directly with system hardware?
+  a) Shell
+  b) Commands
+  -c) Kernel
+  d) Applications
+  
+Applications communicate with kernel by using:
+  a) System Calls
+  b) C Programs
+-  c) Shell Script
+  d) Shell
+  
+The system calls in UNIX is written using which language
+  -a) C
+  b) C++
+  c) Assembly Language
+  d) Fortran
+  
+Which of the following statement is FALSE?
+  a) Unix supports multiple users
+  b) Linux is an open source operating system and the source code is shared
+  -c) Shell takes care of inter process communication
+  d) Shell provides the feature of I/O Redirection
+  
+What control character signals the end of the input file?
+  a) ctrl + a
+  b) ctrl + b
+  c) ctrl + c
+  -d) ctrl + d
+  
+Which represents the user home directory?
+  a) /
+  b) .
+  c) ..
+  -d) ~
+  
+Which is an example for character special file?
+  a) Hard disk
+  b) CD-ROM
+  -c) Terminal
+  d) Memory
+  
+Which one shows the name of the operating system?
+  a) uname -n
+  b) uname -r
+ - c) uname -o
+  d) uname –m
+  
+Which directory contain device special files?
+  a /etc
+  b) /etc/dev
+  c) /root/bin
+  -d) /dev
+    
+
+  
